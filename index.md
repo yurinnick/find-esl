@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
+# Бесплатные ESL Курсы
 
-You can use the [editor on GitHub](https://github.com/yurinnick/find-esl/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Список городов
+* [Chicago, IL](#chicago-il)
+* [San Diego, CA](#san-diego-ca)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Вопросы и ответы
 
-### Markdown
+**Как заполнить форму регистрации?**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Форма подачи заявки и правила могут отличаться в зависимости от колледжа. При регистрации пожалуйста используйте ФИО из паспорта/визы/i94.
+В некоторых формах регистрации необходимо выбрать именно бесплатные классы: ESL; платные курсы (GED, Credit, Academic) выбирать не нужно.
+Более подробные инструкции по заполнению можно найти ниже со список колледжей.
 
-```markdown
-Syntax highlighted code block
+**Как выбрать колледж?**
 
-# Header 1
-## Header 2
-### Header 3
+Моя рекомендация - выбрать несколько колледжей с наилучшей доступностью и, если есть желание, посетить их кампусы чтобы сделать окончательный выбор.
 
-- Bulleted
-- List
+**Мне не подошел ни один колледж**
 
-1. Numbered
-2. List
+Если вам не подошел ни один из нижеперечисленных колледжей, то вы можете оставить свои пожелания в ответе к данному письму и я постараюсь вам помочь.
+Также вы можете самостоятельно сделать поиск колледжей в вашем районе (community college в Google Maps).
 
-**Bold** and _Italic_ and `Code` text
+## Chicago, IL
 
-[Link](url) and ![Image](src)
-```
+### 1. City Colleges of Chicago
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- **Malcolm X College (3.9)** - 1900 W Jackson Blvd, Chicago, IL 60612 - [Map](https://goo.gl/maps/Wbo9f4wnqfakURmS8)
+- **Wilbur Wright College (4.1)** - 4300 N Narragansett Ave, Chicago, IL 60634 - [Map](https://goo.gl/maps/N8654wHLCQ7XFhMR9)
+- **Richard J. Daley College (3.9)** - 7500 S Pulaski Rd, Chicago, IL 60652 - [Map](https://goo.gl/maps/ZXv7jYNejjEPquYj7)
+- **Olive-Harvey College (4.0)** - 10001 S Woodlawn Ave, Chicago, IL 60628 - [Map](https://goo.gl/maps/PnRoK9Vi5ZkZfaVE7)
+- **Harry S Truman College (4.3)** - 1145 W Wilson Ave, Chicago, IL 60640 - [Map](https://goo.gl/maps/PeBkccgtqsKSm3eKA)
+- **Kennedy-King College (3.9)** - 6301 S Halsted St, Chicago, IL 60621 - [Map](https://goo.gl/maps/gopkhKtfzwpQMD9Y9)
 
-### Jekyll Themes
+**Регистрация:**
+- https://www.ccc.edu/site/Pages/ESL-English-as-a-Second-language.aspx
+- Нажмите `Apply online`
+- Следуйте видеоинструкция на английском языке: https://vimeo.com/507743258
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yurinnick/find-esl/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 2. Moraine Valley Community College (4.4)
+- 9000 College Pkwy, Palos Hills, IL 60465 - [Map](https://goo.gl/maps/8XK3XbVP8t147MqK6)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Регистрация:**
+1. https://www.morainevalley.edu/academics/academic-programs/english-language-programs/
+2. Get Registered Today
+
+### 3. College of DuPage (4.2)
+- 425 Fawell Blvd, Glen Ellyn, IL 60137 - [Map](https://g.page/college-of-dupage-glen-ellyn?share)
+
+**Примечания:** Здесь вам необходимы ELA курсы. Перед прохождением регистрации необходимо будет пройти тестирование.
+
+**Регистрация:**
+- https://www.cod.edu/academics/continuing-education/adult-education/
+- English Language Acquisition (ELA) Students
+- View available times and dates
+- ELA and Citizenship testing
+- Register now!
+
+### 4. Triton College (4.1)
+- 2000 5th Ave, River Grove, IL 60171 - [Map](https://goo.gl/maps/aGuGK2ctfu7r9EfS8)
+
+**Примечания:** Есть возможность 100% онлайн обучения. Классы в самом колледже начинаются только с осени.
+
+**Регистрация:**
+- https://www.triton.edu/adult-education/
+- `Register here`
+- Are you interested in ESL or GED Classes?: Выберите ESL
+
+## San Diego, CA
+
+### 1. San Diego City College (4.1)
+- 1313 Park Blvd, San Diego, CA 92101 - [Map](https://goo.gl/maps/qpyQkvGQNG4yJZCq8)
+
+**Регистрация:**
+- https://www.sdcity.edu/academics/schools-programs/arts-humanities-comms/english/elac/index.aspx
+- `Get started`
+
+### 2. San Diego College of Continuing Education (4.2)
+  - 3249 Fordham St, San Diego, CA 92110 - [Map](https://goo.gl/maps/zPfBC7jTgmJHtnZ39)
+  - 8355 Aero Dr, San Diego, CA 92123 - [Map](https://goo.gl/maps/H1ZeyKQk6kaomZqAA)
+  - City Center, 3792 Fairmount Ave, San Diego, CA 92105 - [Map](https://goo.gl/maps/Fk161zWHdRwXtVa27)
+  - 1901 Main St, San Diego, CA 92113 - [Map](https://goo.gl/maps/6bEruajScAFqiuGG9)
+
+**Примечания:** Данный колледж предоставляет ESL курсы online.
+
+**Регистрация:**
+- https://sdcce.edu/esl
+- Если вы хотите посещать занятия на кампусе пройдите по in-person ссылке при регистрации
