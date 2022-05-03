@@ -6,6 +6,7 @@
 * [Boston, MA](#boston-ma)
 * [Leander, TX](#leander-tx)
 * [Tacoma, WA](#tacoma-wa)
+* [Roseville, CA](#roseville-ca)
 
 ## Вопросы и ответы
 
@@ -208,7 +209,16 @@ K сожалению, данный колледж поддерживает то�
 - Пройдите на [страницу](https://www.pierce.ctc.edu/esl) с информацией о курсе
 - K сожалению, данный колледж поддерживает только регистрацию через представителей колледжа. Их контактную инфромацию можно найти на сайте в секции `Contact Us`
 
-## Roswell, CA
+## Roseville, CA
+
+### Sierra College Roseville Center (4.2)
+- 316 Vernon St, Roseville, CA 95678 - [Map](https://goo.gl/maps/rVqCzGvWmNE4bFin9)
+
+**Регистрация:**
+- Перейдите на [страницу курса](https://www.sierracollege.edu/about-us/visit/roseville-center.php)
+- Следуйте инструкциям в [форме регистрации](https://solutions.sierracollege.edu/TDClient/1795/Portal/KB/ArticleDet?ID=73989)
+  * [Как заполнить онлайн-заявку Sierra College](https://solutions-sierracollege-edu.translate.goog/TDClient/1795/Portal/KB/ArticleDet?ID=73989&_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=en&_x_tr_pto=wapp) (перевод на русский)
+  * [Як заповнити онлайн-заявку Sierra College](https://solutions-sierracollege-edu.translate.goog/TDClient/1795/Portal/KB/ArticleDet?ID=73989&_x_tr_sl=en&_x_tr_tl=uk&_x_tr_hl=en&_x_tr_pto=wapp) (переклад на українську)
 
 ## North Port, FL
 
