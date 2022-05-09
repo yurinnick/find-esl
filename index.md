@@ -7,6 +7,12 @@
 * [Leander, TX](#leander-tx)
 * [Tacoma, WA](#tacoma-wa)
 * [Roseville, CA](#roseville-ca)
+* [North Port, FL](#north-port-fl)
+* [Fort Lauderdale, FL](#fort-lauderdale-fl)
+* [Coral Springs, FL](#coral-springs-fl)
+* [Portland, OR](#portland-or)
+* [Ohama, NE](#ohama-ne)
+* [Parma, OH](#parma-oh)
 
 ## Вопросы и ответы
 
@@ -231,5 +237,129 @@ K сожалению, данный колледж поддерживает то�
 
 ## North Port, FL
 
-## Los Angeles, CA
+### Suncoast Technical College (5.0)
+- North Port Branch - 4445 Career Lane, North Port, FL 34289 - [Map](https://goo.gl/maps/NuJfB9b5pg1CCrAN6)
+- STC Sarasota (Main) Campus - 4748 S Beneva Rd, Sarasota, FL 34233 - [Map](https://goo.gl/maps/HVoG1BobMSw4hwav6)
 
+**Примечание:**
+Стоимость программы $45 / семестр, парковка $10 / семестр
+
+**Регистрация:**
+- Информация о программе доступна по [ссылке](https://www.sarasotacountyschools.net/Page/3855)
+- Перейдите на [страницу регистрации](https://www.sarasotacountyschools.net/domain/1678), заполните форму и назначьте консультацию с представителем колледжа
+
+## Fort Lauderdale, FL
+
+### Broward College (4.5)
+- Broward Community College Center - 111 E Las Olas Blvd, Fort Lauderdale, FL 33316 - [Map](https://goo.gl/maps/i13tWL6c5zzWEkbS7)
+
+**Примечания:**
+
+Регистрация в программе помощи беженцам доступна резидентам Broward County старше 18 лет, зарегистрированных в [Broward Comprehensive Refugee Services](https://www.myflfamilies.com/service-programs/refugee-services/eligibility-guide.shtml)
+
+Программа помощи беженцам включает в себя:
+- Базовое образование для взрослых
+- Анлийский язык
+- Английская литература для карьеры и технического образования
+- Общее образование (GED)
+- Обучение для экзамена на гражданство
+- Работа с компьютером
+
+**Регистрация:**
+- Пройдите регистрации в программе `Refugee Services` в [ближайшем офисе](https://www.myflfamilies.com/service-programs/refugee-services/contact.shtml)
+- Пройдите по [ссылке](https://www.broward.edu/academics/continuing-education/programs/renew/) на программу
+- Позвоните по номеру в разделе `Contact Us - Main office` чтобы назначить интервью с представителем колледжа
+- На интервью необходимо принести i94, водительское удостоверение или удостоверение личности
+
+### ASA College - Miami Campus
+- 225 E Dania Beach Blvd, Dania Beach, FL 33004 - [Map](https://goo.gl/maps/cZbp3MZGSDmSGBqs9)
+
+**Регистрация:**
+Оставьте заявку на регистрацию на [странице](https://miami.asa.edu/english-as-a-second-language-esl-studies-at-asa-college-ru/) курса и представитель колледжа свяжется с вами,
+
+### Broward Community Schools (4.0)
+- Список всех локаций доступен [тут](https://www.browardcommunityschools.com/esol-locations-and-hours/)
+
+**Примечания:** Стоимость курса $30/семестр + $20/год/кампус платеж за студенческие активности. Входное тестирование - $15.
+
+**Регистрация:**
+- Информация о программе доступна по [ссылке](https://www.browardcommunityschools.com/english-for-speakers-of-other-languages-esol/)
+- Позвоните по телефону 754-321-7600 или напишите Sharon Saunders sharon.saunders@browardschools.com
+
+## Coral Springs, FL
+
+### Broward College (3.8)
+- 1000 Coconut Creek Blvd., Coconut Creek, FL 33066 - [Map](https://goo.gl/maps/opgFRXue8vicGCVB8)
+- 16957 Sheridan St., Pembroke Pines, FL 33331 - [Map](https://goo.gl/maps/iuNVsr2p53Cae5Zq9)
+- 3501 S.W. Davie Rd. Davie, FL 33314 - [Map](https://goo.gl/maps/VGQoGGwc9Jj4eQY2A)
+- 7200 Pines Blvd., Pembroke Pines, FL 33024 - [Map](https://goo.gl/maps/ptjSEMFjjcP5bpe99)
+
+**Регистрация:** [ссылка](#broward-college-45)
+
+### Atlantic Technical College (4.4)
+- 1400 NW 44th Ave, Coconut Creek, FL 33066 - [Map](https://goo.gl/maps/nHsN3hL6fNf4YV75A)
+- 4700 Coconut Creek Pkwy, Coconut Creek, FL 33063 - [Map](https://goo.gl/maps/zycS62jLAy3PCKMWA)
+- 1701 NW 23rd Ave, Fort Lauderdale, FL 33311 - [Map](https://goo.gl/maps/oiFpe5UEk6rcbXHw5)
+
+**Регистрация:**
+- Информация о программе доступна по [ссылке](https://www.atlantictechnicalcollege.edu/english-for-speakers-of-other-languages-esol/)
+- [Буклет курса](https://www.atlantictechnicalcollege.edu/wp-content/uploads/2022/03/ESOL-Program-Flyer-2021-2022-5.pdf)
+* Пройдите входное тестирование ($15) - [информация](https://www.atlantictechnicalcollege.edu/orientation-testing/)
+  + ESOL Campus @ Coconut Creek HS - Portable 17 /
+понедельник, среда (8:30, 12:00)
+  + ATC Main Campus - Building 6 - понедельник, среда (17:00), суббота (8:00) / **требуется регистрация: 754-321-5350**
+  + Arthur Ashe, Jr. Campus - Learning Commons / понедельник, среда, суббота (8:00)
+
+* Пройдите регистрацию на кампусе
+  + ESOL Campus @ Coconut Creek HS - Portable 17 / вторник - четверг (8:00 - 15:00)
+  + Arthur Ashe, Jr. Campus - Learning Commons / понедельник-пятница (8:00-15:00)
+* Выберите классы
+  + ESOL Campus @ Coconut Creek HS / понедельник - пятница 8:00 - 14:30
+  + ATC Main Campus / понедельник-четверг (17:00-21:00),
+  суббот (8:00 - 12:00)
+  + Arthur Ashe, Jr. Campus / понедельник-пятница (8:00- 14:30)
+
+
+## Portland, OR
+
+### Portland Community College Cascade (4.0)
+
+- Southeast - 2305 SE 82nd Ave, Portland, OR 97216 - [Map](https://goo.gl/maps/wXhWG3coYMHi7sAE8)
+- Sylvania - 12000 SW 49th Ave, Portland, OR 97219 - [Map](https://goo.gl/maps/6GWUGJuAXetYcnxy8)
+- Rock Creek - 17705 NW Springville Rd, Portland, OR 97229 - [Map](https://goo.gl/maps/EV653edmutHyKsQ78)
+- Cascade - 705 N Killingsworth St, Portland, OR 97217 - [Map](https://goo.gl/maps/UjEvdQ8N5tYP2NvbA)
+- Hillsboro - 775 SE Baseline St, Hillsboro, OR 97123 - [Map](https://goo.gl/maps/aMpvJYdzmCQM4mgh8)
+
+**Регистрация:**
+- [Информация о курсе](https://www.pcc.edu/esol/)
+- Заполните [форму](https://docs.google.com/forms/d/e/1FAIpQLSdWys7Xl3se8mAE2NrHgulzdpHEAyuCKkyLBm3WFSqMlLFXFQ/viewform) регистрации. С вами свяжется представитель колледжа
+- Получите Student ID пройдя регистрацию по [ссылке](https://thinkpccfirst.force.com/ERx_Forms__Portal_Login). Доступна [видеоинструкция](https://www.youtube.com/watch?v=oiRuJ4OTuVU)
+
+## Ohama, NE
+
+### Metropolitan Community College (4.0)
+- Fremont Area Center Campus - 835 N Broad St, Fremont, NE 68025 - [Map](https://goo.gl/maps/NTH8PzdU8BKewahU7)
+- Learning Community Center-North - 1612 N 24th St, Omaha, NE 68110 - [Map](https://goo.gl/maps/eKv8niTYUszjxZh96)
+- MCC Express South Campus - 3002 S 24th St, Omaha, NE 68108 - [Map](https://goo.gl/maps/K9AVPh6TnQ3zVNva8)
+- Mockingbird Elementary School - 5100 S 93rd St, Omaha, NE 68127 - [Map](https://goo.gl/maps/cEwzY1GnUuVZkrycA)
+
+**Регистрация:**
+- [Информация о курсе](https://www.mccneb.edu/Prospective-Students/Student-Tools-Resources/Adult-Education/Non-Credit-English-as-a-Second-Language)
+- Для регистрации позвоните по телефону 531-622-4060 или напишите на почту adultedu@mccneb.edu
+
+## Parma, OH
+
+### Cuyahoga Community College West (4.5)
+- 11000 W Pleasant Valley Rd, Parma, OH 44130 - [Map](https://goo.gl/maps/Rrd5F4ZAQeko3vTh9)
+
+**Регистрация:**
+- Пройдите на [страницу регистрации](https://www.tri-c.edu/programs/english-as-a-second-language/how-to-apply-residents.html)
+  + Зарегистрицуйте новый аккаунт [здесь](https://tric.elluciancrmrecruit.com/Apply/Account/Login)
+    * Нажмите `Create a NEW Account`
+    * Заполните инфромацию о себе
+    * Academic Program of Interest: `English`
+    * Current High School GPA (if applicable): Оставьте это поле пустым
+    * Campus of Interest: `Western (Parma)`
+  + Пройдите входное тестирование по [ссылке](https://www.tri-c.edu/testing-center/placement-testing/english-as-second-language-placement-test.html)
+    * Перед прохождением теста ознакомтесь с [инструкцией](https://www.tri-c.edu/testing-center/documents/esl-placement-test-preparation-guide-6-29-2017.pdf)
+  + Назнаьте консультацию с представителем колледжа
